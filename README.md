@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **anche-etc/anche-etc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send me an email at antmchela@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I am half-Zambian, half-Ghanaian
--->
+
