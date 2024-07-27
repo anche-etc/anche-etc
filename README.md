@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**anche-etc/anche-etc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming a competent technical writer and editor
 - 🌱 I’m currently learning HTML, CSS and Markdown
 - 👯 I’m looking to collaborate on open source projects related to technical documentation and communication
